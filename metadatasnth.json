@@ -1,0 +1,16 @@
+{
+    "name": "SeriouslyNothing",
+    "symbol": "SNTH",
+    "description": "If you buy nothing, you'll have everything! Like Molly the Dachshund.",
+    "image": "https://raw.githubusercontent.com/SeriouslyNothing/snth-token-metadat/main/snth.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+        "creators": [
+            {
+                "address": "FADQ1gLvXrieM1Sw3qP8768jX5CiJBegGkgpV2SW6BTq",
+                "share": 100
+            }
+        ]
+    }
+}
